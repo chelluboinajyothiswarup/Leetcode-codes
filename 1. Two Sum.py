@@ -11,4 +11,3 @@ class Solution:
             if len(l)==2:
                 break
         return l
-        
