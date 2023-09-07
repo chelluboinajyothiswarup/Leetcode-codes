@@ -10,4 +10,4 @@ class Solution:
                     break
             if len(l)==2:
                 break
-        return l 
+        return l  
